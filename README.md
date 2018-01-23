@@ -1,5 +1,5 @@
 # Flower-Species-Prediction
-This repository predicts the species of flower using the *Iris flower dataset*
+This repository predicts the species of flower using the *Iris flower dataset* 
 
 For prediction the following algorithms are used:
 
@@ -15,3 +15,4 @@ For prediction the following algorithms are used:
     
     6)Support Vector Machines (SVM)
 
+Accuracy of each algorithm is calculated to check the best algorithm
