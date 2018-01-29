@@ -4,6 +4,10 @@
 #This program is used to learn about Ml, python libraries and their functioning etc...
 #To understand, I am doing documentation about new things i will encounter.
 #I am also going to add some more modifications in this program
+#Potential modifications:- 
+#       1) Using timenow and timeit it calculate the execution time
+#       2) Plotting more types of graphs, 3d graphs if possible   
+#       3) Applying dataset to more algorithms
 
 #Importing the modules
 
